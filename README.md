@@ -270,7 +270,7 @@ The model was evaluated periodically during training to monitor both training an
 ## 📉 Loss Curve
 
 <p align="center">
-  <img src="assets/loss_curve.png" width="900">
+  <img src="assets/loss curve.png" width="900">
 </p>
 
 The loss curves demonstrate stable convergence throughout training with closely matching training and validation losses, indicating good generalization.
